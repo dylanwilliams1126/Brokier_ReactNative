@@ -10,7 +10,7 @@ This is a new [**React Native**](https://reactnative.dev), [**Expo**](https://ex
 [![NPM Version](https://img.shields.io/npm/v/react-native-webview.svg?style=flat-square)](https://www.npmjs.com/package/react-native-webview)
 ![Npm Downloads](https://img.shields.io/npm/dm/react-native-webview.svg)
 
-<img src="https://github.com/reactnative1126/Brokier_ReactNative/blob/master/src/assets/icons/icon.png" width="80">
+<img src="https://github.com/dylanwilliams1126/Brokier_ReactNative/blob/master/src/assets/icons/icon.png" width="80">
 
 ## Download
 
@@ -29,10 +29,10 @@ This is a new [**React Native**](https://reactnative.dev), [**Expo**](https://ex
 Welcome to my project! Below are my favorite videos and screenshots related to this project:
 
 <a href="https://vimeo.com/958085780">
-   <img src="https://github.com/reactnative1126/Brokier_ReactNative/blob/master/src/assets/screens/3.png" width="500" alt="Screen 3" hspace="5">
+   <img src="https://github.com/dylanwilliams1126/Brokier_ReactNative/blob/master/src/assets/screens/3.png" width="500" alt="Screen 3" hspace="5">
 </a>
 
-<img src="https://github.com/reactnative1126/Brokier_ReactNative/blob/master/src/assets/screens/1.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/reactnative1126/Brokier_ReactNative/blob/master/src/assets/screens/5.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/reactnative1126/Brokier_ReactNative/blob/master/src/assets/screens/4.png" width="250" alt="Screen 4" hspace="5">
+<img src="https://github.com/dylanwilliams1126/Brokier_ReactNative/blob/master/src/assets/screens/1.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/dylanwilliams1126/Brokier_ReactNative/blob/master/src/assets/screens/5.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/dylanwilliams1126/Brokier_ReactNative/blob/master/src/assets/screens/4.png" width="250" alt="Screen 4" hspace="5">
 
 ## Getting Started
 
@@ -148,4 +148,4 @@ To learn more about React Native, take a look at the following resources:
 
 ## License
 
-HouseSigma(Brokier) React Native mobile application is licensed under [The MIT License](LICENSE) © Silas Jones 2017-
+HouseSigma(Brokier) React Native mobile application is licensed under [The MIT License](LICENSE) © Dylan Williams 2017-
