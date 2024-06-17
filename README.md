@@ -10,7 +10,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 [![NPM Version](https://img.shields.io/npm/v/react-native-webview.svg?style=flat-square)](https://www.npmjs.com/package/react-native-webview)
 ![Npm Downloads](https://img.shields.io/npm/dm/react-native-webview.svg)
 
-<img src="https://github.com/dylanwilliams/BorwFashion_ReactNative/blob/master/src/assets/images/icon.png" width="80">
+<img src="https://github.com/dylanwilliams1126/BorwFashion_ReactNative/blob/master/src/assets/images/icon.png" width="80">
 
 ## Download
 
